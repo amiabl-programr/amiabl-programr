@@ -1,7 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
 <div align="center">  
-
   <div id="badges">
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,11 +12,14 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-  
----
-  
 </div>
-### :man_technologist: About Me :  
+
+---
+
+### :man_technologist: About Me : 
+- 🔭 I’m currently working as a React Developer.
+- 💬 Ask me about Frontend Development.
+- 📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)] (https://www.linkedin.com/in/victor-oluwayemi-2b733318a/)
 
 ---
 
@@ -28,10 +30,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"            height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-
-
-  
-  
 </div>
 <!--
 **amiabl-programr/amiabl-programr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
