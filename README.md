@@ -14,7 +14,7 @@
 ---
 
 ### :man_technologist: About Me : 
-- 🔭 I’m currently working as a React Developer.
+- 🔭 I’m currently working as a Frontend Developer.
 - 💬 Ask me about Frontend Development.
 - 📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Victor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-oluwayemi-2b733318a)
 
