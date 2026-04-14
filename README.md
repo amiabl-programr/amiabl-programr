@@ -14,8 +14,8 @@
 ---
 
 ### :man_technologist: About Me : 
-- 🔭 I’m currently working as a Frontend Developer.
-- 💬 Ask me about Frontend Development.
+- 🔭 I’m currently working as a FullStack Developer.
+- 💬 Ask me about FullStack Development.
 - 📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Victor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-oluwayemi-2b733318a)
 
 
