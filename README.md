@@ -14,8 +14,8 @@
 ---
 
 ### :man_technologist: About Me : 
-- 🔭 I’m currently working as a FullStack Developer.
-- 💬 Ask me about FullStack Development.
+- 🔭 I’m currently working as a Software Engineer.
+- 💬 Ask me about Software, machine learning, AI, Embedded Systems, Physics-informed neural networks(PINL).
 - 📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Victor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-oluwayemi-2b733318a)
 
 
